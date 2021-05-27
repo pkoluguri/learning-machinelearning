@@ -1,0 +1,37 @@
+iris
+|
+species of flowers
+|
+types
+
+classification ex - email - ml model - spam or not spam
+
+Linear Regression - 
+
+iris flowers - measurements - x,y,x1,y1 - data 
+
+data - machine learning model - type 
+
+kneighboursclassifier
+knearestneighbour
+ 
+Linear R -
+LogisticRegression
+
+accuracy?
+
+data train
+
+data test
+
+accuracy score
+
+data- training data , testing data
+
+training data
+
+testing data
+
+accuracy score
+
+Linear Regression- countinuos
